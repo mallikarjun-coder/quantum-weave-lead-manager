@@ -1,5 +1,5 @@
 package com.quantumweave.leadmanager.lead;
-import jakarta.persistence.*; import jakarta.validation.constraints.*; import java.time.LocalDateTime;
+import javax.persistence.*; import javax.validation.constraints.*; import java.time.LocalDateTime;
 @Entity @Table(name="leads") public class Lead {
 @Id @GeneratedValue(strategy=GenerationType.IDENTITY) private Long id;
 @NotBlank @Size(max=100) @Column(nullable=false,length=100) private String name;
