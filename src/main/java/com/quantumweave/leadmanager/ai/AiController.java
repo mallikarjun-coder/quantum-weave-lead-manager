@@ -1,0 +1,2 @@
+package com.quantumweave.leadmanager.ai; import com.quantumweave.leadmanager.lead.LeadService; import org.springframework.web.bind.annotation.*; import java.util.Map;
+@RestController @RequestMapping("/api/ai") public class AiController{private final LeadService leads; private final OpenAiService ai; public AiController(LeadService l,OpenAiService a){leads=l;ai=a;} @PostMapping("/first-response/{id}") public Map<String,String> first(@PathVariable Long id){return Map.of("draft",ai.draft(leads.get(id)));}}

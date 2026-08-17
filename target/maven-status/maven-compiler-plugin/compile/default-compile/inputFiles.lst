@@ -1,0 +1,10 @@
+C:\Project\quantum-weave-lead-manager\src\main\java\com\quantumweave\leadmanager\ai\AiController.java
+C:\Project\quantum-weave-lead-manager\src\main\java\com\quantumweave\leadmanager\ai\OpenAiService.java
+C:\Project\quantum-weave-lead-manager\src\main\java\com\quantumweave\leadmanager\common\GlobalExceptionHandler.java
+C:\Project\quantum-weave-lead-manager\src\main\java\com\quantumweave\leadmanager\lead\Lead.java
+C:\Project\quantum-weave-lead-manager\src\main\java\com\quantumweave\leadmanager\lead\LeadController.java
+C:\Project\quantum-weave-lead-manager\src\main\java\com\quantumweave\leadmanager\lead\LeadNotFoundException.java
+C:\Project\quantum-weave-lead-manager\src\main\java\com\quantumweave\leadmanager\lead\LeadRepository.java
+C:\Project\quantum-weave-lead-manager\src\main\java\com\quantumweave\leadmanager\lead\LeadService.java
+C:\Project\quantum-weave-lead-manager\src\main\java\com\quantumweave\leadmanager\lead\LeadStatus.java
+C:\Project\quantum-weave-lead-manager\src\main\java\com\quantumweave\leadmanager\LeadManagerApplication.java

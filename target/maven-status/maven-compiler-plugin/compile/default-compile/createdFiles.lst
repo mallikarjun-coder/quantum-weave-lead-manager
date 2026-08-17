@@ -1,0 +1,10 @@
+com\quantumweave\leadmanager\lead\LeadRepository.class
+com\quantumweave\leadmanager\lead\LeadNotFoundException.class
+com\quantumweave\leadmanager\lead\LeadService.class
+com\quantumweave\leadmanager\lead\LeadController.class
+com\quantumweave\leadmanager\LeadManagerApplication.class
+com\quantumweave\leadmanager\common\GlobalExceptionHandler.class
+com\quantumweave\leadmanager\ai\AiController.class
+com\quantumweave\leadmanager\lead\Lead.class
+com\quantumweave\leadmanager\lead\LeadStatus.class
+com\quantumweave\leadmanager\ai\OpenAiService.class
